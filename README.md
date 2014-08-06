@@ -1,4 +1,4 @@
-### Tutorial de Instalação do OpenStack Havana
+### Tutorial de Instalação do OpenStack Havana<br/>
 
 **Autor:**
 
