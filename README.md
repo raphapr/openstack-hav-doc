@@ -41,6 +41,7 @@ O processo de implementação, neste tutorial, segue basicamente 6 tópicos:
 
 A arquitetura de rede dos dois nós será da seguinte forma:
 
+![alt text](https://raw.githubusercontent.com/raphapr/openstack-havana-installation/master/img/arch.png "Topologia")
 <URL DA IMAGEM>
 
 **Exemplo 1 (controller) /etc/network/interfaces:**
