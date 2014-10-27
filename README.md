@@ -1,8 +1,6 @@
 ### Tutorial de Instalação do OpenStack Havana<br/>
 
-**Autor:**
-
-Raphael Pereira Ribeiro
+**Autor:** Raphael Pereira Ribeiro
 
 A idéia deste tutorial é proporcionar um caminho simplificado para implementação de uma estrutura de computação em nuvem utilizando OpenStack, preocupando-se mais com aspectos técnicos do que conceitos gerais.
 
