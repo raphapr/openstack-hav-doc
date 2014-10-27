@@ -2,8 +2,7 @@
 
 **Autor:**
 
-Copyright (C) Raphael Pereira Ribeiro
-
+Raphael Pereira Ribeiro
 
 A idéia deste tutorial é proporcionar um caminho simplificado para implementação de uma estrutura de computação em nuvem utilizando OpenStack, preocupando-se mais com aspectos técnicos do que conceitos gerais.
 
@@ -958,3 +957,7 @@ Agora você pode acessar o dashboard a partir do endereço https://controller/
 ## 8. Referência
 - http://docs.openstack.org/havana/install-guide/install/apt/content/
 - http://docs.openstack.org/user-guide/content/
+
+<br/>
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
